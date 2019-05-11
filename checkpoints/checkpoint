@@ -1,0 +1,2 @@
+model_checkpoint_path: "CIFAR10_Convnet.chkp"
+all_model_checkpoint_paths: "CIFAR10_Convnet.chkp"
